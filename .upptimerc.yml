@@ -3,7 +3,7 @@ owner: maticorv # Your GitHub organization or username, where this repository li
 repo: upptime.financialempire.company # The name of this repository
 
 sites:
-  - name: Financial Emprie
+  - name: Financial Empire
     url: https://financialempire.company/
   - name: API REST
     url: https://api.financialempire.company/
@@ -29,7 +29,7 @@ status-website:
       href: https://github.com/maticorv/upptime.financialempire.company
 #       href: https://github.com/$OWNER/$REPO
 i18n:
-  footer: ADEN
+  footer: Financial Empire
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
 # Upptime also supports notifications, assigning issues, and more
