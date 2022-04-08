@@ -17,6 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.financialempire.company
   baseUrl: /upptime.financialempire.company
+  icon: https://financialempire.company/favicon.png
   logoUrl: https://financialempire.company/favicon.png
   name: Financial Empire
   theme: night
