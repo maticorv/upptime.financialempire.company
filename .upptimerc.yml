@@ -15,12 +15,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: upptime.financialempire.company
   baseUrl: /upptime.financialempire.company
   logoUrl: https://financialempire.company/favicon.png
   name: Finacial Empire
   theme: night
-#   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** is the Financial Empire uptime monitor and status page"
 #   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
@@ -28,6 +28,9 @@ status-website:
     - title: GitHub
       href: https://github.com/maticorv/upptime.financialempire.company
 #       href: https://github.com/$OWNER/$REPO
-
+i18n:
+  footer: ADEN
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
