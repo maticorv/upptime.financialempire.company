@@ -4,19 +4,19 @@
     "url": "https://financialempire.company/",
     "icon": "https://favicons.githubusercontent.com/financialempire.company",
     "slug": "financial-empire",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 267,
-    "timeWeek": 166,
-    "timeMonth": 179,
-    "timeYear": 170,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 179,
+    "timeDay": 334,
+    "timeWeek": 200,
+    "timeMonth": 188,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-05-08": 0
+      "2022-05-08": 28
     }
   },
   {
