@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/financialempire.company",
     "slug": "financial-empire",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
-    "time": 190,
-    "timeDay": 115,
+    "uptimeYear": "99.97%",
+    "time": 188,
+    "timeDay": 113,
     "timeWeek": 172,
     "timeMonth": 209,
-    "timeYear": 190,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2022-05-08": 28
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 460,
+    "timeDay": 293,
     "timeWeek": 269,
-    "timeMonth": 306,
+    "timeMonth": 296,
     "timeYear": 291,
     "dailyMinutesDown": {}
   }
