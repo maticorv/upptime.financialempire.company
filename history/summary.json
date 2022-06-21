@@ -4,18 +4,19 @@
     "url": "https://financialempire.company/",
     "icon": "https://favicons.githubusercontent.com/financialempire.company",
     "slug": "financial-empire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 211,
-    "timeDay": 473,
-    "timeWeek": 312,
-    "timeMonth": 251,
-    "timeYear": 211,
+    "time": 210,
+    "timeDay": 286,
+    "timeWeek": 285,
+    "timeMonth": 246,
+    "timeYear": 210,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2022-05-08": 28
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://api.financialempire.company/",
     "icon": "https://favicons.githubusercontent.com/api.financialempire.company",
     "slug": "api-rest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +36,8 @@
     "timeWeek": 291,
     "timeMonth": 310,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
