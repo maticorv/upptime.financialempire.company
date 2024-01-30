@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/financialempire.company.ico",
     "slug": "financial-empire",
     "status": "down",
-    "uptime": "48.25%",
+    "uptime": "48.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.42%",
-    "time": 265,
+    "uptimeYear": "6.15%",
+    "time": 264,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 243,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-01-29": 37,
+      "2024-01-30": 37,
+      "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -367,7 +368,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.financialempire.company.ico",
     "slug": "api-rest",
     "status": "down",
-    "uptime": "12.26%",
+    "uptime": "12.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -376,9 +377,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 122,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-01-29": 37,
+      "2024-01-30": 37,
+      "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -741,8 +743,7 @@
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
-      "2023-01-31": 1440,
-      "2023-01-30": 1440
+      "2023-01-31": 1440
     }
   }
 ]
